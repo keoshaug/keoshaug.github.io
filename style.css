@@ -10,18 +10,18 @@ header {
   .pageOne {
     text-align: center;
     background: url("C:\Users\kevin\Pictures\343066691_243501291541990_6734486994659296388_n.jpg");
-     background-size: cover;
-     height: 1000px;
+    background-size: cover;
+    height: 1000px;
    }
  .pageTwo {
     text-align: center;
     background: url("C:\Users\kevin\Pictures\343066691_243501291541990_6734486994659296388_n.jpg");
-     background-size: cover;
-     height: 1500px;
+    background-size: cover;
+    height: 2000px;
    }
  .pageThree {
     text-align: center;
     background: url("C:\Users\kevin\Pictures\343066691_243501291541990_6734486994659296388_n.jpg");
-     background-size: cover;
-     height: 1000px;
+    background-size: cover;
+    height: 1000px;
    }
