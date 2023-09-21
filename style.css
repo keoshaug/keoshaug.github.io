@@ -2,3 +2,22 @@ header {
     text-align: center;
     font-family: Futura, Arial, Helvetica, sans-serif;
 }
+
+#linkedinicon {
+    color: green;
+  }
+  #githubicon {
+    color: brown;
+  }
+  #freecodecampicon {
+    color: green;
+  }
+  #facebookicon {
+    color: blue;
+  }
+
+  .pageOne {
+    background: url("C:\Users\kevin\Pictures\343066691_243501291541990_6734486994659296388_n.jpg");
+     background-size: cover;
+     height: 1000px;
+   }
