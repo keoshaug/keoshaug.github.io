@@ -21,12 +21,6 @@ YouTube: https://www.youtube.com/channel/UCMAYB5XVFCn6OSE1sTAnGgQ
 
 ## Credits:
 
-	Boilerplate: Solid State by HTML5 UP
-html5up.net | @ajlkn
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
 	Icons:
 		Font Awesome (fontawesome.io)
 
