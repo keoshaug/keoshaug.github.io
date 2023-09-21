@@ -9,7 +9,7 @@ header {
 }
 .pageOne {
     text-align: center;
-    background: url("C:\Users\kevin\Pictures\343066691_243501291541990_6734486994659296388_n.jpg");
+    background: url("https://de.wikipedia.org/wiki/Caspar_David_Friedrich#/media/Datei:Caspar_David_Friedrich_013.jpg");
     background-size: cover;
     height: 1000px;
    }
@@ -17,11 +17,11 @@ header {
     text-align: center;
     background: url("C:\Users\kevin\Pictures\343066691_243501291541990_6734486994659296388_n.jpg");
     background-size: cover;
-    height: 2500px;
+    height: 1500px;
    }
 .pageThree {
     text-align: center;
     background: url("C:\Users\kevin\Pictures\343066691_243501291541990_6734486994659296388_n.jpg");
     background-size: cover;
-    height: 1000px;
+    height: 500px;
    }
