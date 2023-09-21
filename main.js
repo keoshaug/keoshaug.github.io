@@ -2,7 +2,7 @@
 
 (function($) {
 
-	var	$window = $(window),
+	const	$window = $(window),
 		$body = $('body'),
 		$header = $('#header'),
 		$banner = $('#banner');
@@ -39,7 +39,7 @@
 		}
 
 	// Menu.
-		var $menu = $('#menu');
+		const $menu = $('#menu');
 
 		$menu._locked = false;
 
