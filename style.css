@@ -1,9 +1,11 @@
-header {
-    text-align: center;
+html {
     font-family: Futura, Helvetica, sans-serif;
 }
+
+header {
+    text-align: center;
+}
 body {
-    font-family: Futura, Helvetica, sans-serif;
     text-align: center;
     background-color:  azure;
     background-size: cover;
